@@ -1,0 +1,9 @@
+{
+  "name": "chatanalys-e",
+  "version": "0.1.0",
+  "description": "Turns a WhatsApp group export into a prioritised issue backlog, executive brief, and searchable HTML triage board.",
+  "author": {
+    "name": "mouryanE"
+  },
+  "keywords": ["whatsapp", "chat analysis", "backlog", "issue tracking", "support"]
+}
